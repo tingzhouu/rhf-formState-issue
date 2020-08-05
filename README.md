@@ -1,6 +1,6 @@
 # formState issue in react native - template project
 
-This is a template for reproducing an error in react-hook-form.
+This is a template for reproducing an error in react-hook-form, [issue #2479](https://github.com/react-hook-form/react-hook-form/issues/2479).
 
 ### Get Started
 
